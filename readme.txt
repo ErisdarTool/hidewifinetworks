@@ -1,10 +1,12 @@
 @brief 		Hide Wifi Networks
 @details 	x
 @auth		Justin Reina
-@date		9/21/24
+@date		10/9/24
 	
 
 @section 	Opens
+	• Support special characters in SSID (e.g. "#o4D@n!3LS3b@$+1@N<B")
+
 	• Make vi auto run
 
 		Double-clicking the launcher auto-runs the tool
