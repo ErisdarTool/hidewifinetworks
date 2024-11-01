@@ -1,7 +1,7 @@
 @brief 		Hide Wifi Networks
 @details 	x
 @auth		Justin Reina
-@date		10/9/24
+@date		10/12/24
 	
 
 @section 	Opens
@@ -18,4 +18,14 @@
 	• Make auto run as admin
 	
 		Auto-run as admin, required for script
+
+@section 	Run as Admin
+
+	You can make programs (.EXE) run as admin by default through advanced properties configuration, but this is not provided for files or shortcuts to files
+	
+	Soln - creat a bat file with admin permissions (see Run\ )
+	
+@section 	Reference
+	
+	netsh wlan add filter permission=block ssid="WIFI NAME" networktype=infrastructure 
 
