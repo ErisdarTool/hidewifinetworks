@@ -29,3 +29,13 @@
 	
 	netsh wlan add filter permission=block ssid="WIFI NAME" networktype=infrastructure 
 
+@section 	Updates
+	clean doc
+	do full redo
+	EXE!
+	Documentation
+	Test
+	Log
+	Results
+	Uses LabVIEW utilities & libraries & variables & typedefs well
+
