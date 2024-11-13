@@ -14,8 +14,8 @@
 ::
 
 
-:: Handle Console
-nircmd.exe win hide ititle "cmd.exe"
+:: (NOPE) Handle Console
+:: nircmd.exe win hide ititle "cmd.exe"
 
 
 :: Run File
@@ -23,4 +23,4 @@ nircmd.exe win hide ititle "cmd.exe"
 
 
 :: Dev Pop-up
-::mshta "about:<script>alert('Hello, worlds!');close()</script>"
+:: mshta "about:<script>alert('Hello, worlds!');close()</script>"
