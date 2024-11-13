@@ -3,5 +3,5 @@
 :: @detail 	VBS doesn't allow 'call as admin' priveleges which is disabled for shortcuts to VBS sometimes?
 
 ::Launch
-D:\Documents\Ref\Computer\Microsoft\Config\Hide Wifi Networks\Run\HideWifi.vbs
+"D:\Documents\Ref\Computer\Microsoft\Config\Hide Wifi Networks\Run\HideWifi.vbs"
 
