@@ -13,15 +13,5 @@
 :: 		Hide console (completely!)
 ::
 
-
-:: (NOPE) Handle Console
-:: nircmd.exe win hide ititle "cmd.exe"
-
-
 :: Run File
 "D:\Documents\Ref\Computer\Microsoft\Config\Hide Wifi Networks\Hide Wifi Networks.vi"
-
-
-:: Dev Pop-up
-:: mshta "about:<script>alert('Hello, worlds!');close()</script>"
-
