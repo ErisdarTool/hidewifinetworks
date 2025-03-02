@@ -1,7 +1,7 @@
 @brief 		Hide Wifi Networks 'v1.2'
-@details 	x
+@details        Utility to review and select visible WiFi networks to hide from selection  
 @auth		Justin Reina
-@date		11/13/24
+@date		3/1/25
 	
 
 @section 	Opens
