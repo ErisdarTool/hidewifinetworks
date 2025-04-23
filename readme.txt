@@ -1,12 +1,13 @@
 @brief 		Hide Wifi Networks 'v1.2'
-@details        Utility to review and select visible WiFi networks to hide from selection  
+@details    Utility to review and select visible WiFi networks to hide from selection  
 @auth		Justin Reina
-@date		3/1/25
+@date		4/22/25
 	
 
 @section 	Opens
 	• Support special characters in SSID (e.g. "#o4D@n!3LS3b@$+1@N<B")
-
+	• Give the option to display all hidden networks & the option to unhide select ntwks
+	• Give the option to display all known networks & the option to modify select ntwks
 		
 @section 	Run as Admin
 
